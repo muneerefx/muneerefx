@@ -10,7 +10,7 @@ I'm Muneer Moosa.
 </p>
 
 ## Technologies and Tools:
-- Python/Django/Flask
+- Python
 - AWS
 - Terraform
 - Ansible
