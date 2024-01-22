@@ -20,7 +20,7 @@ I'm Muneer Moosa.
 - Photoshop
 
 ## GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=anoopefx&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muneerefx&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working at Electrifex Technologies Pvt. Ltd.
 - 🌱 I’m currently learning cicd
